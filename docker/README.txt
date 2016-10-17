@@ -1,6 +1,6 @@
 How to start from scratch:
-    $ ./buid.sh
-    $ ./run.sh
+    $ sudo ./buid.sh  # only sudo if need be (Ie. not for mac ;))
+    $ sudo ./run.sh
     $ sudo docker exec -it c-nodejs-osf-webapp-template bash
 
 In the container:
